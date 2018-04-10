@@ -1,0 +1,16 @@
+-- SET NAMES UTF8;
+-- CREATE DATABASE IF NOT EXISTS godemo DEFAULT CHARSET UTF8 COLLATE UTF8_GENERAL_CI;
+--     GRANT SELECT, UPDATE, DELETE, INSERT, ALTER, CREATE, DROP ON godemo.* TO "godemo"@"%" IDENTITY BY "godemo";
+--     GRANT SELECT, UPDATE, DELETE, INSERT, ALTER, CREATE, DROP ON godemo.* TO "godemo"@"localhost" IDENTITY BY "godemo";
+-- USE godemo;
+
+-- CREATE TABLE user
+-- (
+--     id BIGINT AUTO_INCREMENT PRIMARY KEY,
+--     nickname VARCHAR(20) DEFAULT "" NOT NULL,
+--     account VARCHAR(20) NOT NULL,
+--     password VARCHAR(120) NOT NULL,
+--     status INT DEFAULT '1' NOT NULL,
+--     createTime TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,
+--     CONSTRAINT user_account_uindex UNIQUE (account)
+-- )   
