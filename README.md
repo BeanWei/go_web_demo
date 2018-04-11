@@ -6,6 +6,7 @@
 - 单元测试：github.com/smartystreets/goconvey
 - ~~数据库查询：github.com/jmoiron/sqlx~~
 - 数据库查询：github.com/xormplus/xorm
+- 缓存：github.com/garyburd/redigo/redis
 - mysql驱动：github.com/go-sql-driver/mysql
 - 配置文件解析：github.com/BurntSushi/toml
     
