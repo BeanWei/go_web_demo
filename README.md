@@ -5,7 +5,7 @@
 
     单元测试：github.com/smartystreets/goconvey
 
-    ~~ 数据库查询：github.com/jmoiron/sqlx ~~
+    ~~数据库查询：github.com/jmoiron/sqlx~~
     数据库查询：github.com/xormplus/xorm
 
     mysql驱动：github.com/go-sql-driver/mysql
