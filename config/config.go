@@ -15,6 +15,7 @@ import (
 var jsonData map[string]interface{}
 
 func initJSON() {
+	//读取配置文件
 	bytes, err := ioutil.ReadFile("/conf/config.json")
 	if err != nil {
 		fmt.Println("ReadFile: ", err.Error())

@@ -28,7 +28,7 @@
         "APIPrefix" : "/api",
         "Port" :8081,
         "TokenSecret" : "",
-        "TokenMaxAge" : 86400,
+        "TokenMaxAge" : 86400, 
         "PassSalt" : ""
     }
 }
