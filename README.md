@@ -1,7 +1,7 @@
 # 后端基于golang + 前端基于vue
 
 ##后端使用的依赖
-    - 日志： github.com/donnie4w/go-logger/logger
+    -日志： github.com/donnie4w/go-logger/logger
 
     - 单元测试：github.com/smartystreets/goconvey
 
