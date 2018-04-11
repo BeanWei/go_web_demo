@@ -1,6 +1,7 @@
 # 后端基于golang + 前端基于vue
 
 ##后端使用的依赖
+- web框架：github.com/labstack/echo/...
 - 日志： github.com/donnie4w/go-logger/logger
 - 单元测试：github.com/smartystreets/goconvey
 - ~~数据库查询：github.com/jmoiron/sqlx~~
